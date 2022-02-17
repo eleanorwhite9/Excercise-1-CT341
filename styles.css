@@ -1,0 +1,24 @@
+/*Typography*/
+
+h1, h2 {
+    font-family: 'Open Sans', sans-serif;
+    background-color: peru;
+
+}
+p, a {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-size: 14px;
+    color:whitesmoke
+    margin-bottom: 38px;
+
+}
+
+
+
+
+
+
+/*layout*/
